@@ -1,5 +1,5 @@
 @echo off
 title LABIRINT
 cls
-python app1.py
+python app.py
 pause
